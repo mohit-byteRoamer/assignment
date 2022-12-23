@@ -1,0 +1,30 @@
+.matchCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background-color: blueviolet;
+  margin: 6px;
+  border: 1 solid black;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.cardTitle {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.logoSection {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+
+.teamLogo {
+  margin: 8px;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+}
